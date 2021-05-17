@@ -1,4 +1,4 @@
 # Practical Machine Learning Final Project
 
-This is my final project for the Practical Machine Learning Course. 
+Please find my project [here](https://rpubs.com/jasondouglasgibbs).
 
